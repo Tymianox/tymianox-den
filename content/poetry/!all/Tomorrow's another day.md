@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-07-14
+No: 2
+---
 # &#12300; Tomorrow's another day &#12301; *`EN#060`*
 
 ---
 
-> [[poetry/2022/07 july/14|14/07/22]]
+> [[2022-07-14|14/07/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
