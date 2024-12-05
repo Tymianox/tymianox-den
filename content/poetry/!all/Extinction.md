@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-04-03
+---
 # &#12300; Extinction &#12301; *`EN#031`*
 
 ---
 
-> [[poetry/2022/04 april/03|03/04/22]]
+> [[2022-04-03|03/04/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
