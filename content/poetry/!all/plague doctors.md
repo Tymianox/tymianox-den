@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-03-26
+No: 6
+---
 # &#12300; plague doctors &#12301; *`EN#028`*
 
 ---
 
-> [[poetry/2022/03 march/26|26/03/22]]
+> [[2022-03-26|26/03/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
