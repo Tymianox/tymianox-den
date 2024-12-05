@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-06-15
+No: 2
+---
 # &#12300; Inspiration &#12301; *`EN#054`*
 
 ---
 
-> [[poetry/2022/06 june/15|15/06/22]]
+> [[2022-06-15|15/06/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
