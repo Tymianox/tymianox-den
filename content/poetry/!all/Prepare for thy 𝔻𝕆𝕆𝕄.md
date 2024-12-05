@@ -1,8 +1,13 @@
-# &#12300; Prepare for thy 𝔻𝕆𝕆𝕄 &#12301; *`EN#001`*
+---
+CreatedDate: 2021-12-27
+aliases:
+  - Prepare fort thy DOOM
+---
+# 「Prepare for thy 𝔻𝕆𝕆𝕄」 *`EN#001`*
 
 ---
 
-> [[poetry/2021/12 december/27|27/12/21]]
+> [[2021-12-27|27/12/21]]
 >  
 > #poetry
 > #poetry/art 
