@@ -1,13 +1,18 @@
+---
+CreatedDate: 2022-03-14
+No: 2
+---
 # &#12300; Despair & Hope / Rozpacz & Nadzieja &#12301; *`EN#014 / PL#011`*
 
 ---
 
-> [[poetry/2022/03 march/14|14/03/22]]
+> [[2022-03-14|14/03/22]]
 > 
 > #poetry 
+> #songs 
 > #poetry/music 
 > #poetry/lang/en #poetry/lang/pl 
-> #poetry/type/free_verse #poetry/type/songs
+> #poetry/type/free_verse 
 > #poetry/rhymed/🔴 
 > #poetry/rating/⭐⭐⭐ 
 > #poetry/keywords/dark #poetry/keywords/depressive #poetry/keywords/disappointing_reality #poetry/keywords/humanity
