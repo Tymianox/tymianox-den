@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-05-17
+No: 1
+---
 # &#12300; Death's Sonnet &#12301; *`EN#044`*
 
 ---
 
-> [[poetry/2022/05 may/17|17/05/22]]
+> [[2022-05-17|17/05/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
