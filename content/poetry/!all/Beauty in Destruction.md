@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-06-03
+---
 # &#12300; Beauty in Destruction &#12301; *`EN#049`*
 
 ---
 
-> [[poetry/2022/06 june/03|03/06/22]]
+> [[2022-06-03|03/06/22]]
 > 
 > #poetry 
 > #poetry/music 
