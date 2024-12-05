@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-14
+---
 # &#12300; threatened sea urchins &#12301; *`EN#094`*
 
 ---
 
-> [[poetry/2022/10 october/14|14/10/22]]
+> [[2022-10-14|14/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
