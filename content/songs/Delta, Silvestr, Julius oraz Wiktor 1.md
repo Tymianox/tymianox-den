@@ -1,4 +1,4 @@
-#poetry/type/songs #poetry/wip 
+#songs 
 
 Do Tal'lion - zmierzają razem
 Każdy ma własne - cele i ambicje
