@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-08-09
+---
 # &#12300; The Bermuda Triangle &#12301; *`EN#070`*
 
 ---
 
-> [[poetry/2022/08 august/09|09/08/22]]
+> [[2022-08-09|09/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
