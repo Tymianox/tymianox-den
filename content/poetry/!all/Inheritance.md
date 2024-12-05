@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-11-15
+---
 # &#12300; Inheritance &#12301; *`EN#116`*
 
 ---
 
-> [[poetry/2022/11 november/15|15/11/22]]
+> [[2022-11-15|15/11/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
