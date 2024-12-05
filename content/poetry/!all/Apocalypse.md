@@ -1,8 +1,11 @@
-# &#12300; Apocalypse &#12301; *`EN#002`*
+---
+CreatedDate: 2021-12-31
+---
+# 「Apocalypse」 *`EN#002`*
 
 ---
 
-> [[poetry/2021/12 december/31|31/12/21]]
+> [[2021-12-31|31/12/21]]
 > 
 > #poetry 
 > #poetry/art 
