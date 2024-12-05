@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2024/08 august/22|22/08/24]]
+> [[2024-08-22|22/08/24]]
 > #poetry 
 > #poetry/lang/jp #poetry/lang/en #poetry/lang/pl 
 > #poetry/type/haiku 
