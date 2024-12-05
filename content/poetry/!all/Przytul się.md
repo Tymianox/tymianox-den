@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-02
+No: 1
+---
 # &#12300; Przutul się &#12301; *`PL#026`*
 
 ---
 
-> [[poetry/2022/08 august/02|02/08/22]]
+> [[2022-08-02|02/08/22]]
 > 
 > #poetry 
 > #poetry/lang/pl 
