@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2024/11 november/06|06/11/24]]
+> [[2024-11-06|06/11/24]]
 > #poetry 
 > #poetry/lang/en 
 > #poetry/type/free_verse 
