@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-03-18
+No: 1
+---
 # &#12300; Lifetime Goal &#12301; *`EN#016`*
 
 ---
 
-> [[poetry/2022/03 march/18|18/03/22]]
+> [[2022-03-18|18/03/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
