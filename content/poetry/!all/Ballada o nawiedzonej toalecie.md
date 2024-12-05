@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-05-31
+---
 # &#12300; Ballada o nawiedzonej toalecie &#12301; *`PL#017`*
 
 ---
 
-> [[poetry/2022/05 may/31|31/05/22]]
+> [[2022-05-31|31/05/22]]
 > 
 > #poetry 
 > #poetry/lang/pl 
