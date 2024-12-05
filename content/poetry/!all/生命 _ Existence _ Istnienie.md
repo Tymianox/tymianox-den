@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2023/09 september/18|18/09/23]]
+> [[2023-09-18|18/09/23]]
 > 
 > #poetry 
 > #poetry/lang/jp #poetry/lang/en #poetry/lang/pl 
