@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-06-12
+No: 1
+---
 # &#12300; under the bed &#12301; *`EN#052`*
 
 ---
 
-> [[poetry/2022/06 june/12|12/06/22]]
+> [[2022-06-12|12/06/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
