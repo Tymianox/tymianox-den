@@ -1,8 +1,12 @@
-# &#12300; Reinawr &#12301; *`EN#004`*
+---
+CreatedDate: 2022-01-04
+---
+# 「Reinawr」 *`EN#004`*
 
 ---
 
-> [[poetry/2022/01 january/04|04/01/22]]
+> [[2022-01-04|04/01/22]]
+> 
 > #poetry 
 > #poetry/lang/en 
 > #poetry/type/free_verse #poetry/type/short 
