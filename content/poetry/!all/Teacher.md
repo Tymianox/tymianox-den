@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-21
+No: 3
+---
 # &#12300; Teacher &#12301; *`EN#103`*
 
 ---
 
-> [[poetry/2022/10 october/21|21/10/22]]
+> [[2022-10-21|21/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
