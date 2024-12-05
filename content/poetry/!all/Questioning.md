@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2024/11 november/18|18/11/24]]
+> [[2024-11-18|18/11/24]]
 > 
 > #poetry 
 > #poetry/lang/en 
