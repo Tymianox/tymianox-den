@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-06-17
+---
 # &#12300; The Forest of Pacts &#12301; *`EN#057`*
 
 ---
 
-> [[poetry/2022/06 june/17|17/06/22]]
+> [[2022-06-17|17/06/22]]
 > 
 > #poetry 
 > #poetry/music 
