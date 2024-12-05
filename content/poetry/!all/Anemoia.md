@@ -1,8 +1,12 @@
-# &#12300; Anemoia &#12301; *`EN#088 / PL#031`*
+---
+CreatedDate: 2022-10-08
+No: 1
+---
+# & #12300 ; Anemoia & #12301 ; *`EN#088 / PL#031`*
 
 ---
 
-> [[poetry/2022/10 october/08|08/10/22]]
+> [[2022-10-08|08/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en #poetry/lang/pl 
