@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-24
+No: 1
+---
 # &#12300; Wounded &#12301; *`EN#104`*
 
 ---
 
-> [[poetry/2022/10 october/24|24/10/22]]
+> [[2022-10-24|24/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
