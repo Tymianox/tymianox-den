@@ -2,11 +2,12 @@
 
 ---
 
-> [[poetry/2023/01 january/14|14/01/23]]
+> [[2023-01-14|14/01/23]]
 > 
 > #poetry 
+> #songs 
 > #poetry/lang/en 
-> #poetry/type/free_verse #poetry/type/songs 
+> #poetry/type/free_verse 
 > #poetry/rhymed/🟡 
 > #poetry/rating/⭐⭐⭐⭐ 
 > #poetry/keywords/love #poetry/keywords/rejection #poetry/keywords/isolation #poetry/keywords/regret #poetry/keywords/youth #poetry/keywords/bittersweet #poetry/keywords/depressive #poetry/keywords/loss
