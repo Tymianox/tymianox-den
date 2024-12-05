@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-06-16
+No: 2
+---
 # &#12300; Eternality &#12301; *`EN#056`*
 
 ---
 
-> [[poetry/2022/06 june/16|16/06/22]]
+> [[2022-06-16|16/06/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
