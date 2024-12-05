@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2023/08 august/25|25/08/23]]
+> [[2023-08-25|25/08/23]]
 > 
 > #poetry 
 > #poetry/lang/en  #poetry/lang/pl 
