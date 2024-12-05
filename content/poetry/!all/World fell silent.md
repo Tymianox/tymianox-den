@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-09-28
+---
 # &#12300; World fell silent &#12301; *`EN#082`*
 
 ---
 
-> [[poetry/2022/09 september/28|28/09/22]]
+> [[2022-09-28|28/09/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
