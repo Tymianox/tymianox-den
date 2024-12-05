@@ -1,0 +1,21 @@
+- [ ] swoon
+- [ ] faux pas
+- [ ] blimey
+- [ ] par excellence
+- [ ] deus ex machina
+- [ ] ditto
+- [ ] noblesse oblige
+- [ ] vagary
+- [ ] Anemoia
+- [ ] Ergo
+- [ ] Ma faute
+- [ ] discombobulated
+- [ ] hoi polloi - the masses
+- [ ] legerdemain
+- [ ] Cimmerian
+- [ ] rozpamiętywać się
+- [ ] mift
+- [ ] crepuscule
+- [ ] nil
+- [ ] nill
+- [ ] mise en place
