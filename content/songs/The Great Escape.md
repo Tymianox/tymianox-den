@@ -1,4 +1,4 @@
-#poetry/type/songs 
+#songs 
 		   Cm             Ab              Fm
 I hear scary voices and they just won't leave me be  
 G                                       Cm                          Fm                          G
