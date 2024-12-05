@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-06-28
+---
 # &#12300; Deszczowy dzień &#12301; *`PL#022`*
 
 ---
 
-> [[poetry/2022/06 june/28|28/06/22]]
+> [[2022-06-28|28/06/22]]
 > 
 > #poetry 
 > #poetry/lang/pl 
