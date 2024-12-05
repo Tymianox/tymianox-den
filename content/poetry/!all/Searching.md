@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-12
+---
 # &#12300; Searching &#12301; *`EN#093`*
 
 ---
 
-> [[poetry/2022/10 october/12|12/10/22]]
+> [[2022-10-12|12/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
