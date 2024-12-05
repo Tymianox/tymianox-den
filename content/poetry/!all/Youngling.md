@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-08-26
+---
 # &#12300; Youngling &#12301; *`EN#077`*
 
 ---
 
-> [[poetry/2022/08 august/26|26/08/22]]
+> [[2022-08-26|26/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
