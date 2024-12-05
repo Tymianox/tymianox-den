@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-09-22
+---
 # &#12300; Morning &#12301; *`EN#081`*
 
 ---
 
-> [[poetry/2022/09 september/22|22/09/22]]
+> [[2022-09-22|22/09/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
