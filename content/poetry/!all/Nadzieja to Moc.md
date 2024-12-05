@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-06-16
+No: 1
+---
 # &#12300; Nadzieja to Moc &#12301; *`PL#021`*
 
 ---
 
-> [[poetry/2022/06 june/16|16/06/22]]
+> [[2022-06-16|16/06/22]]
 > 
 > #poetry 
 > #poetry/lang/pl 
