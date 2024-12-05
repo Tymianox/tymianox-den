@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-11-18
+---
 # &#12300; autumn's end &#12301; *`EN#117`*
 
 ---
 
-> [[poetry/2022/11 november/18|18/11/22]]
+> [[2022-11-18|18/11/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
