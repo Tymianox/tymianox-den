@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-19
+No: 3
+---
 # &#12300; Prettiest Friend &#12301; *`EN#075`*
 
 ---
 
-> [[poetry/2022/08 august/19|19/08/22]]
+> [[2022-08-19|19/08/22]]
 > 
 > #poetry 
 > #poetry/music 
