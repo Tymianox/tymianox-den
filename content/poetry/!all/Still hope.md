@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-19
+No: 2
+---
 # &#12300; Still hope &#12301; *`EN#074`*
 
 ---
 
-> [[poetry/2022/08 august/19|19/08/22]]
+> [[2022-08-19|19/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
