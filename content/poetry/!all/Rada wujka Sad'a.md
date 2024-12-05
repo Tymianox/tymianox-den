@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-03-03
+No: 2
+---
 # &#12300; Rada wujka Sad'a &#12301; *`PL#008`*
 
 ---
 
-> [[poetry/2022/03 march/03|03/03/22]]
+> [[2022-03-03|03/03/22]]
 > 
 > #poetry
 > #poetry/lang/pl 
