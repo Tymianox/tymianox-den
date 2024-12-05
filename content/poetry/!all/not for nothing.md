@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-11-04
+No: 4
+---
 # &#12300; not for nothing &#12301; *`EN#115`*
 
 ---
 
-> [[poetry/2022/11 november/04|04/11/22]]
+> [[2022-11-04|04/11/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
