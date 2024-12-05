@@ -1,8 +1,11 @@
-# 「 COVID-19 」 _`PL#002`_
+---
+CreatedDate: 2020-03-12
+---
+# 「COVID-19」 _`PL#002`_
 
 ---
 
-> [[poetry/2020/03 march/12|12/03/20]]
+> [[2020-03-12|12/03/20]]
 > 
 > #poetry 
 > #poetry/lang/pl 
