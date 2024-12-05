@@ -2,7 +2,7 @@
 
 ---
 
->  [[poetry/2022/12 december/15|15/12/22]]  
+>  [[poetry/2022/12 december/15|15/12/22]]
 >  
 > #poetry  
 > #poetry/lang/en  
