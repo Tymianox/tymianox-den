@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-03-27
+---
 # &#12300; Distortion &#12301; *`EN#009`*
 
 ---
 
->  [[poetry/2022/02 february/27|27/02/22]]
+>  [[2022-03-27|27/02/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
