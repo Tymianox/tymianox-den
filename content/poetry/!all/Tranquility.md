@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-11-21
+No: 2
+---
 # &#12300; Tranquility &#12301; *`EN#119`*
 
 ---
 
-> [[poetry/2022/11 november/21|21/11/22]]
+> [[2022-11-21|21/11/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
