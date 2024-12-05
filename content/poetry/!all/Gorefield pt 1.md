@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-05
+No: 1
+---
 # &#12300; Gorefield pt 1 &#12301; *`EN#068`*
 
 ---
 
-> [[poetry/2022/08 august/05|05/08/22]]
+> [[2022-08-05|05/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
