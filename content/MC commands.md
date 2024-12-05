@@ -1,7 +1,7 @@
 
 
 shutter handle top
-/summon minecraft:armor_stand 332.875 71.37 9.71 {Rotation:[180f],NoGravity:1b,Invisible:1b,ShowArms:1,HandItems:[{id:"stick",Count:1b}],Pose:{RightArm:[215f,0f,0f]}}
+/summon minecraft: armor_stand 332.875 71.37 9.71 {Rotation:[180f],NoGravity: 1b,Invisible: 1b,ShowArms: 1,HandItems:[{id: "stick",Count: 1b}],Pose:{RightArm:[215f,0f,0f]}}
 
 shutter handle plus lever bottom
 /summon minecraft:armor_stand 188.875 63.8 -40.55 {NoGravity:1b,Invisible:1b,ShowArms:1,HandItems:[{id:"stick",Count:1b}],Pose:{RightArm:[-235f,0f,0f]}}
