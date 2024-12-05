@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-24
+No: 2
+---
 # &#12300; present &#12301; *`EN#105`*
 
 ---
 
-> [[poetry/2022/10 october/24|24/10/22]]
+> [[2022-10-24|24/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
