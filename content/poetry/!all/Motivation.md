@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-12-14
+---
 # &#12300; Motivation &#12301; *`EN#122`*
 
 ---
 
-> [[poetry/2022/12 december/14|14/12/22]]
+> [[2022-12-14|14/12/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
