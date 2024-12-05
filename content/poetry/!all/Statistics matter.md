@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-07-14
+No: 3
+---
 # &#12300; Statistics matter &#12301; *`EN#061`*
 
 ---
 
-> [[poetry/2022/07 july/14|14/07/22]]
+> [[2022-07-14|14/07/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
