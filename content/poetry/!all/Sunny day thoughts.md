@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-19
+No: 1
+---
 # &#12300; Sunny day thoughts &#12301; *`EN#073`*
 
 ---
 
-> [[poetry/2022/08 august/19|19/08/22]]
+> [[2022-08-19|19/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
