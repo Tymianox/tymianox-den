@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-17
+No: 2
+---
 # &#12300; happiness &#12301; *`EN#072`*
 
 ---
 
-> [[poetry/2022/08 august/17|17/08/22]]
+> [[2022-08-17|17/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
