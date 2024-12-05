@@ -1,8 +1,8 @@
-# & #12300 ; I like my coffee how I like my magic / Lubię moją kawę jak moją magię & #12301 ; *`EN#203 / PL#096`*
+# & #12300 ; I like my coffee how I like my magic / Lubię moją kawę jak moją magię & #12301 ; *`EN#203 / PL#120`*
 
 ---
 
-> [[poetry/2023/10 october/25|25/10/23]] | [[poetry/2024/11 november/11|11/11/24]]
+> [[2023-10-25|25/10/23]] | [[2024-11-11|11/11/24]]
 > 
 > #poetry 
 > #poetry/lang/en  #poetry/lang/pl 
