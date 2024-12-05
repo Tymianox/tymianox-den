@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2024/10 october/07|07/10/24]]
+> [[2024-10-07|07/10/24]]
 > 
 > #poetry 
 > #poetry/lang/jp #poetry/lang/en #poetry/lang/pl 
