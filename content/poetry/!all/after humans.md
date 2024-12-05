@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-28
+No: 1
+---
 # &#12300; after humans &#12301; *`EN#106`*
 
 ---
 
-> [[poetry/2022/10 october/28|28/10/22]]
+> [[2022-10-28|28/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
