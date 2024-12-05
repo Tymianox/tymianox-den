@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-04
+No: 2
+---
 # &#12300; Sequoias &#12301; *`EN#085`*
 
 ---
 
-> [[poetry/2022/10 october/04|04/10/22]]
+> [[2022-10-04|04/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
