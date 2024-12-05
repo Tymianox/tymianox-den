@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-03-10
+---
 # &#12300; My Perfection &#12301; *`EN#011`*
 
 ---
 
-> [[poetry/2022/03 march/10|10/03/22]]
+> [[2022-03-10|10/03/22]]
 > 
 > #poetry 
 > #poetry/music 
