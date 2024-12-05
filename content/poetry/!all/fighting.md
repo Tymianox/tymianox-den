@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-10
+No: 2
+---
 # &#12300; fighting &#12301; *`EN#091`*
 
 ---
 
-> [[poetry/2022/10 october/10|10/10/22]]
+> [[2022-10-10|10/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
