@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-09-21
+---
 # &#12300; Origin &#12301; *`EN#080`*
 
 ---
 
-> [[poetry/2022/09 september/21|21/09/22]]
+> [[2022-09-21|21/09/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
