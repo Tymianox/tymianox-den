@@ -1,13 +1,18 @@
+---
+CreatedDate: 2022-03-18
+No: 3
+---
 # &#12300; Ahoy, Me Hearties! &#12301; *`EN#018`*
 
 ---
 
-> [[poetry/2022/03 march/18|18/03/22]]
+> [[2022-03-18|18/03/22]]
 > 
 > #poetry 
+> #songs
 > #poetry/music 
 > #poetry/lang/en 
-> #poetry/type/free_verse #poetry/type/songs 
+> #poetry/type/free_verse 
 > #poetry/rhymed/🟡 
 > #poetry/rating/⭐⭐⭐ 
 > #poetry/keywords/dark #poetry/keywords/story #poetry/keywords/fiction 
