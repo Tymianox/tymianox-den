@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-22
+---
 # &#12300; czas = chaos &#12301; *`PL#036`*
 
 ---
 
-> [[poetry/2022/10 october/22|22/10/22]]
+> [[2022-10-22|22/10/22]]
 > 
 > #poetry 
 > #poetry/lang/pl 
