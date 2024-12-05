@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2023/02 february/08|08/02/23]]
+> [[2023-02-08|08/02/23]]
 > 
 > #poetry 
 > #poetry/lang/pl 
