@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-08
+No: 2
+---
 # &#12300; Full fall &#12301; *`EN#089`*
 
 ---
 
-> [[poetry/2022/10 october/08|08/10/22]]
+> [[2022-10-08|08/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
