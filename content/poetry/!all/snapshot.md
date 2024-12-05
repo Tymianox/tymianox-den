@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-11-04
+No: 3
+---
 # &#12300; snapshot &#12301; *`EN#114`*
 
 ---
 
-> [[poetry/2022/11 november/04|04/11/22]]
+> [[2022-11-04|04/11/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
