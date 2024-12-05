@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2023/03 march/28|28/03/23]]
+> [[2023-03-28|28/03/23]]
 > #poetry 
 > #poetry/lang/en 
 > #poetry/type/free_verse 
