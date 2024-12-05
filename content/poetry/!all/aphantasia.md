@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-30
+---
 # &#12300; aphantasia &#12301; *`EN#108`*
 
 ---
 
-> [[poetry/2022/10 october/30|30/10/22]]
+> [[2022-10-30|30/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
