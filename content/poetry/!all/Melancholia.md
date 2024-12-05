@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-16
+No: 1
+---
 # &#12300; Melancholia &#12301; *`EN#096`*
 
 ---
 
-> [[poetry/2022/10 october/16|16/10/22]]
+> [[2022-10-16|16/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
