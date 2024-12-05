@@ -1,8 +1,12 @@
-# &#12300; Repetycja &#12301; *`PL#004`*
+---
+CreatedDate: 2021-11-18
+No: 2
+---
+# 「Repetycja」 *`PL#004`*
 
 ---
 
-> [[poetry/2021/11 november/18|18/11/21]]
+> [[2021-11-18|18/11/21]]
 > 
 > #poetry
 > #poetry/lang/pl 
