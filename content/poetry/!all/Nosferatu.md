@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-12-25
+---
 # &#12300; Nosferatu &#12301; *`EN#125`*
 
 ---
 
-> [[poetry/2022/12 december/25|25/12/22]]
+> [[2022-12-25|25/12/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
