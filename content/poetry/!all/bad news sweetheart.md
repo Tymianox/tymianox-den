@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-19
+No: 1
+---
 # &#12300; bad news sweetheart &#12301; *`EN#099`*
 
 ---
 
-> [[poetry/2022/10 october/19|19/10/22]]
+> [[2022-10-19|19/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
