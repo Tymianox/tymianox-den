@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-11-04
+No: 1
+---
 # &#12300; thoughts &#12301; *`EN#112`*
 
 ---
 
-> [[poetry/2022/11 november/04|04/11/22]]
+> [[2022-11-04|04/11/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
