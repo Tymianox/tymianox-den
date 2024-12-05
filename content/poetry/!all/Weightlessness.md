@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-17
+No: 1
+---
 # &#12300; Weightlessness &#12301; *`EN#071`*
 
 ---
 
-> [[poetry/2022/08 august/17|17/08/22]]
+> [[2022-08-17|17/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
