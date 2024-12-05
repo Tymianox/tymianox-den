@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-15
+---
 # &#12300; Mistakes &#12301; *`EN#095`*
 
 ---
 
-> [[poetry/2022/10 october/15|15/10/22]]
+> [[2022-10-15|15/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
