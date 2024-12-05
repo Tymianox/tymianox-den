@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-12-11
+---
 # &#12300; Leg thief &#12301; *`EN#121`*
 
 ---
 
-> [[poetry/2022/12 december/11|11/12/22]]
+> [[2022-12-11|11/12/22]]
 > 
 > #poetry 
 > #micro_horror
