@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-19
+No: 6
+---
 # &#12300; Bookworming &#12301; *`EN#076`*
 
 ---
 
-> [[poetry/2022/08 august/19|19/08/22]]
+> [[2022-08-19|19/08/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
