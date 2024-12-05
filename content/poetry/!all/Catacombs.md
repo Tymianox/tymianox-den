@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-20
+---
 # &#12300; Catacombs &#12301; *`EN#100`*
 
 ---
 
-> [[poetry/2022/10 october/20|20/10/22]]
+> [[2022-10-20|20/10/22]]
 > 
 > #poetry 
 > #poetry/music 
