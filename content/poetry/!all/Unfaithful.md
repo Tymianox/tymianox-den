@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-10-17
+---
 # &#12300; Unfaithful &#12301; *`EN#098`*
 
 ---
 
-> [[poetry/2022/10 october/17|17/10/22]]
+> [[2022-10-17|17/10/22]]
 > 
 > #poetry 
 > #poetry/lang/en 
