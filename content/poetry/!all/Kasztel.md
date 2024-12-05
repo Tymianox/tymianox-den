@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-02-21
+No: 2
+---
 # &#12300; Kasztel &#12301; *`PL#007`*
 
 ---
 
-> [[poetry/2022/02 february/21|21/02/22]]
+> [[2022-02-21|21/02/22]]
 > 
 > #poetry 
 > #poetry/lang/pl 
