@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-10-10
+No: 3
+---
 # &#12300; talking is such a pain &#12301; *`EN#092`*
 
 ---
 
-> [[poetry/2022/10 october/10|10/10/22]]
+> [[2022-10-10|10/10/22]]
 > 
 > #poetry 
 > #poetry/lang 
