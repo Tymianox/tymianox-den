@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-08-02
+No: 2
+---
 # &#12300; Krwawe niebo &#12301; *`PL#027`*
 
 ---
 
-> [[poetry/2022/08 august/02|02/08/2022]]
+> [[2022-08-02|02/08/2022]]
 > 
 > #poetry 
 > #poetry/lang/pl 
