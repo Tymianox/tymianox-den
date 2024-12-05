@@ -1,8 +1,11 @@
+---
+CreatedDate: 2022-11-27
+---
 # &#12300; 夜 / night / noc &#12301; *`JP#001 / EN#120 / PL#037`*
 
 ---
 
-> [[poetry/2022/11 november/27|27/11/22]]
+> [[2022-11-27|27/11/22]]
 > 
 > #poetry 
 > #poetry/lang/jp #poetry/lang/en #poetry/lang/pl 
