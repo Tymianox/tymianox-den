@@ -1,8 +1,11 @@
-# &#12300; Goodbye &#12301; *`EN#005`*
+---
+CreatedDate: 2022-01-10
+---
+# 「Goodbye」 *`EN#005`*
 
 ---
 
-> [[poetry/2022/01 january/10|10/01/22]]
+> [[2022-01-10|10/01/22]]
 > 
 > #poetry 
 > #poetry/music 
