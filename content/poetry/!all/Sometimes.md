@@ -2,7 +2,7 @@
 
 ---
 
-> [[poetry/2024/05 may/18|18/05/24]]
+> [[2024-05-18|18/05/24]]
 > #poetry 
 > #poetry/art 
 > #poetry/lang/en 
