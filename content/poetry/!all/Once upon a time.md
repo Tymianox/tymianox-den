@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-04-08
+No: 3
+---
 # &#12300; Once upon a time &#12301; *`EN#033`*
 
 ---
 
-> [[poetry/2022/04 april/08|08/04/22]]
+> [[2022-04-08|08/04/22]]
 > 
 > #poetry 
 > #poetry/music 
