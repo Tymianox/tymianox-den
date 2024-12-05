@@ -1,8 +1,12 @@
+---
+CreatedDate: 2022-07-14
+No: 5
+---
 # &#12300; Hello, my dove &#12301; *`EN#063`*
 
 ---
 
-> [[poetry/2022/07 july/14|14/07/22]]
+> [[2022-07-14|14/07/22]]
 > 
 > #poetry 
 > #poetry/music 
