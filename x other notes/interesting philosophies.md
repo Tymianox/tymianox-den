@@ -1,0 +1,3 @@
+- cynicism
+- nihilism
+- absurdism
