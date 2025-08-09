@@ -1,0 +1,5 @@
+- Freeze French Toast
+- Cooked eggs are not that bad protein
+- Nutella is better than nothing
+- Nuts
+- Maybe try eating more cheese
